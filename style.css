@@ -353,15 +353,15 @@ p{
     width: 90%;
 }
 #contact .contact-items{
-    padding: 50px;
+    padding: 20px;
     width: 100%;
 }
 #contact .contact-item{
     width: 80%;
-	padding: 30px;
+    padding: 30px;
 	text-align: center;
 	border-radius: 10px;
-	margin: 50px;
+	margin: 10%;
 	display: flex;
 	justify-content: center;
 	align-items: center;

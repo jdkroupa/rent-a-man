@@ -354,6 +354,8 @@ p{
 }
 #contact .contact-items{
     padding: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     width: 100%;
 }
 #contact .contact-item{
